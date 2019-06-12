@@ -11,7 +11,7 @@ Here at Noops Headquarters, we receive a lot of applications for positions in ou
 
 Unfortunately we are very busy cooking up new challenges, so we cannot personally repond to each application.
 
-## API 
+## API
 
 Get started at `https://api.noopschallenge.com/fizzbot` &ndash; but do it quickly!
 
@@ -27,13 +27,7 @@ Take a look at the [API documentation](./API.md) for more information.
 
 ## Starters
 
-Get started with python or ruby using the included scripts, or start from scratch.
-
-### Python
-
-Here are two interactive interactive starter kits, made for [Python 3](./fizz3.py) and [Python 2](./fizz2.py).
-
-[Learn how to install python.](https://docs.python-guide.org/starting/installation/).
+Get started with ruby using the included scripts, or start from scratch.
 
 ### Ruby
 
@@ -42,9 +36,3 @@ This example shows how you might write a bot that can solve the fizzbot challeng
 Check out the [Ruby script](./fizz.rb) and try to beat Fizzbot at its own game.
 
 [Learn how to install ruby.](https://www.ruby-lang.org/en/documentation/installation/)
-
-### Other languages
-
-Do you have a favorite language? We'd love to see your solution.
-
-More about Fizzbot and all of the other Noops here: https://noopschallenge.com/challenges/fizzbot
