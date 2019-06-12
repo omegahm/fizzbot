@@ -1,0 +1,6 @@
+Result: interview complete
+Grade: A+
+Elapsedseconds: 5
+Message: Congratulations!
+You completed the interview in 5 seconds.
+That was unbelievably fast!
